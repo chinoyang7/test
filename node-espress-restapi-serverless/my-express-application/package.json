@@ -1,0 +1,19 @@
+{
+  "name": "joy-first-node-express-restapi-serverless-example",
+  "version": "1.0.0",
+  "description": "joy-first-node-express-restapi-serverless-example",
+  "main": "index.js",
+  "repository": "https://serverless.com/blog/serverless-express-rest-api/",
+  "author": "Joy(Oyang Chin)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "serverless-http": "^1.8.0"
+  },
+  "devDependencies": {
+    
+    "serverless": "^1.32.0",
+    "serverless-offline": "^3.25.17"
+    
+  }
+}
